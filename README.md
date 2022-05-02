@@ -1,4 +1,4 @@
-Hi! My name is Cordelia Min, I'm a third year Computer Science student at the University of Toronto.
+Hi! My name is Cordelia, I'm a Computer Science student at the University of Toronto.
 
 <!---
 cordeliamin/cordeliamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
